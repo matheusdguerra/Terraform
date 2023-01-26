@@ -1,3 +1,3 @@
 ssh_key_name = "jornada"
-do_token     = "dop_v1_31574c1887aae1de7cb73f7cda96dcb6cc8314b812bc7357bd67a33f9e984eb1"
+do_token     = "dop_v1_4fc809d8b31789fa3bd11e27a3bb81ea68e0cd0346fcbf015ca8e1559c1ddd32"
 region       = "nyc1"

@@ -1,2 +1,3 @@
 .terraform/providers/registry.terraform.io/digitalocean/digitalocean/2.25.2/windows_amd64/terraform-provider-digitalocean_v2.25.2.exe
 terraform.tfvars
+terraform.tfvars
